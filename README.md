@@ -21,7 +21,7 @@ Importing the libaries for this project: Pandas, Numpy, Holoviews.
 
 Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
 
-NumPy is the fundamental package for scientific computing with Python
+NumPy is an open source fundamental python library for scientific computing using arrays, transforms, etc.
 
 HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple.
 
